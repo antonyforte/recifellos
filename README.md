@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./public/logo.png" alt="Recifellos Logo" width="200"/>
+    <img src="./www/public/logo.png" alt="Recifellos Logo" width="200"/>
   # Recifellos
 
   **Enterprise-Grade Supply Chain Traceability on Hyperledger Fabric**
@@ -15,7 +15,7 @@
 ## 📖 About The Project
 
 <div align="center">
-    <img src="./public/ss.png" alt="Recifellos Dashboard" width="800"/>
+    <img src="./www/public/ss.png" alt="Recifellos Dashboard" width="800"/>
 </div>
 
 <br />
